@@ -23,7 +23,7 @@ WhatsAlexa.addCommand({pattern: 'menu', fromMe: whb, dontAddCommandList: true}, 
       
       const buttonMessage = {
           contentText: "LIZA MWOL",
-          footerText: ᴏᴡɴᴇʀ ᴘᴇᴘᴇ sɪʀ  ©',
+          footerText: 'ᴏᴡɴᴇʀ ᴘᴇᴘᴇ sɪʀ  ©',
           buttons: buttons,
           headerType: 1
       }
