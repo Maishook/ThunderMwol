@@ -5,11 +5,11 @@
     
     
   <p>
-<a href="#"><img title="P3P3 SIR" src="https://img.shields.io/badge/P3P3 BOT-black?color=black&style=for-the-badge&logo=whatsapp"></a>            <a href="https://tinyurl.com/yf66lpbm"><img title="Author" src="https://img.shields.io/badge/Author P3P3 Sir-h/Fidhamwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="#"><img title="THUNDER MWOL" src="https://img.shields.io/badge/THUNDER MWOL-pepe?color=black&style=for-the-badge"></a>            <a href="https://tinyurl.com/yf66lpbm"><img title="Author" src="https://img.shields.io/badge/Author P3P3 Sir-h?color=black&style=for-the-badge&logo=whatsapp"></a>
 
 
   
-<a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3"><img title="WATSAPP GROUP" src="https://img.shields.io/badge/WATSAPP  GROUP-h/Fidhamwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3"><img title="WATSAPP GROUP" src="https://img.shields.io/badge/WATSAPP  GROUP-p?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
