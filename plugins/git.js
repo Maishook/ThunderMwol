@@ -146,13 +146,9 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 
 *To check update .update   To update Bot .update now*
 
-*Bot making video : https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA*
-
-*Yt_PASSWORD: _________(password on this video watch it full)*
-
 *githublink : https://github.com/pepesir/LIZA-MWOL*
 
-*audio commads : https://github.com/pepesir/LIZA-MWOL/tree/master/uploads*
+*audio commands : https://github.com/pepesir/LIZA-MWOL/tree/master/uploads*
 `}) 
 
 }));
