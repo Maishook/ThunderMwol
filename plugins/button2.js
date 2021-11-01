@@ -22,11 +22,7 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
       ]
       
       const buttonMessage = {
-          contentText: "╭──────────────────╮
-       ᴛʜᴜɴᴅᴇʀ ᴍᴡᴏʟ 3.0💞 
-╭──────────────────╯
-│
-│      ʜᴇʏ ᴜsᴇʀ ",
+          contentText: "Hi",
           footerText: 'owner pepe ser  ©',
           buttons: buttons,
           headerType: 1
