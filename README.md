@@ -25,17 +25,17 @@ Project created by <a href="https://github.com/pepesir/ThunderMwol">P3P3-SIR</a>
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/LIZA-MWOL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/ThunderMwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/LizaMwol?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/ThunderMwol?v=1)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
-$ cd LIZA-MWOL
+$ git clone https://github.com/pepesir/ThunderMwol
+$ cd ThunderMwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node Liza.js
@@ -43,7 +43,7 @@ $ node Liza.js
       
 ```js
 SETUP
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
+$ git clone https://github.com/pepesir/ThunderMwol
 $ cd LIZA-MWOL
 $ npm i
 $ node Liza.js
@@ -52,28 +52,28 @@ $ node Liza.js
 ----
 
   <p align="center">
-  <a href="https://github.com/Chunkindepadayali/LIZA-MWOL">
+  <a href="https://github.com/pepesir/ThunderMwol">
     
-<a href="https:https://github.com/Chunkindepadayali?tab=followers">
-<img src="https://img.shields.io/github/repo-size/Chunkindepadayali/LIZA-MWOL?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https:https://github.com/pepesir?tab=followers">
+<img src="https://img.shields.io/github/repo-size/pepesir/ThunderMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Chunkindepadayali/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Chunkindepadayali?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chunkindepadayali/LIZA-MWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Chunkindepadayali/LIZA-MWOL?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chunkindepadayali/LIZA-MWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Chunkindepadayali/LIZA-MWOL?color=blue&style=flat-square"></a>
-<a href="https://github.com/Chunkindepadayali/LIZA-MWOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Chunkindepadayali/LIZA-MWOL?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/pepesir/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/pepesir?color=blue&style=flat-square"></a>
+<a href="https://github.com/pepesir/ThunderMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/pepesir/ThunderMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/pepesir/ThunderMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/pepesir/ThunderMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/pepesir/ThunderMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/pepesir/ThunderMwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chunkindepadayali&show_icons=true&theme=dark&locale=en" alt="Chunkindepadayali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pepesir&show_icons=true&theme=dark&locale=en" alt="pepesir" /></p>
     
   <div align="center">
        
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chunkindepadayali&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pepesir&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
  
   
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3)
                      
 ### ⚠️ Warning! 
 ```
