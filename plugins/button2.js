@@ -9,6 +9,20 @@ var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }
 var ggg = Buffer.from(clh.cd, 'base64')
 var ddd = ggg.toString('utf-8')
 
+const Language = require('../language');
+const Lang = Language.getString('wallpaper');
+const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
+
+    var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
+    
+    var wish = ''
+    
+if (hrs < 12) wish = '*ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ⛅*'
+if (hrs >= 12 && hrs <= 17) wish = '*ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ 🌞*'
+if (hrs >= 17 && hrs <= 19) wish = '*ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 🌥*'
+if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
+
+
 let whb = Config.WORKTYPE == 'public' ? false : true
 
 WhatsAlexa.addCommand({pattern: 'help', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
@@ -22,7 +36,7 @@ WhatsAlexa.addCommand({pattern: 'help', fromMe: whb, dontAddCommandList: true}, 
       ]
       
       const buttonMessage = {
-          contentText: ' ▢ LIZA MWOL \n ▢ PEPE SIR ',
+          contentText: ' ▢  \n ▢ PEPE SIR \n ʜᴇʏ ᴜsᴇʀ ` + wish + ` \n *⌚` + time + `* \n',
           footerText: 'ᴏᴡɴᴇʀ ᴘᴇᴘᴇ sɪʀ  ©',
           buttons: buttons,
           headerType: 1
