@@ -4,14 +4,16 @@
   <p align="center">
     
     
-<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href=https://github.com/Chunkindepadayali"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+  <p>
+<a href="#"><img title="P3P3 SIR" src="https://img.shields.io/badge/P3P3 BOT-black?color=black&style=for-the-badge&logo=whatsapp"></a>            <a href="https://tinyurl.com/yf66lpbm"><img title="Author" src="https://img.shields.io/badge/Author P3P3 Sir-h/Fidhamwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+
+
+  
+<a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3"><img title="WATSAPP GROUP" src="https://img.shields.io/badge/WATSAPP  GROUP-h/Fidhamwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/pepesir/ThunderMwol">P3P3-SIR</a> to make it public
     <br>
        | © |
         Reserved |
