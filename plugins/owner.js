@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*LIZA-MWOL by Fayas and Nithin*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*LIZA-MWOL by P3P3 SIR*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
