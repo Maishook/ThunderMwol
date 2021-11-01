@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
    
 *whatsapp group : https://tinyurl.com/yz6dm8ep*
 
-*githublink       _https://github.com/pepesir/LIZA-MWOL_*
+*githublink       _https://github.com/pepesir/ThunderMwol_*
 
 
 `}) 
