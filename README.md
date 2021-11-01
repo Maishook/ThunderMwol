@@ -75,13 +75,24 @@ $ node Liza.js
   
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3)
                      
-### ⚠️ Warning! 
+### ⚠ Warning ⚠
+
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+ThunderMwol or we are not responsible for your account, 
+This bot is intended for the purpose of having fun with some fun commands 
+and group management with some helpfull commands.
+
+If  you ended up spamming groups, getting reported left and right, 
+and you ended up in being fight with WhatsApp
+and at the end WhatsApp Team deleted your account. DON'T BLAME US.
+
+No personal support will be provided / We won't spoon feed you. 
+If you need help
+you can contact 👇🏻👇🏻 
 ```
+**[![pepesir](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/917736622139?text=Can%20you%20help%20bro)**
+
 
 ## Developers
   <div align="center">
