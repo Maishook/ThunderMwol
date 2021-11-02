@@ -47,7 +47,7 @@ if (config.AUTOBİO == 'false') auto_bio = ' ᴏғғ'
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ᴘᴇᴘᴇ
-│ ▢ *ᴏᴡɴᴇʀ* :` + config.TAGPLK + `
+│ ▢ *ᴏᴡɴᴇʀ* :` + config.OWNERSHIP + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 3.1
 │ ▢ *ʀᴏʟᴇ* : ᴏғғɪᴄɪᴀʟ
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
