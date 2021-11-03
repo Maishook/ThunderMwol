@@ -3,9 +3,9 @@
     "description": "Thunder Mwol is the Modified Version of WhatsAsena, Made By @Chunkinde_padayali with Baileys.",
     "logo": "https://i.imgur.com/2nYs8dN.jpg",
     "keywords": ["whatsapp", "userbot", "Thunder", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/pepesir/ThunderMwol",
-    "website":   "https://github.com/pepesir/ThunderMwol",
-    "success_url": "https://github.com/pepesir/ThunderMwol",
+    "repository": "https://github.com/Roshanpepe/ThunderMwol",
+    "website":   "https://github.com/Roshanpepe/ThunderMwol",
+    "success_url": "https://github.com/Roshanpepe/ThunderMwol",
     "stack": "container",
     "env": {
         "LIZA_SESSION": {
