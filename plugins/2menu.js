@@ -22,25 +22,15 @@ Asena.addCommand({pattern: '2menu', fromMe: false, desc: Lang.WP}, (async (messa
     
     var wish = ''
 
-    var antilink = ''
-
-    var autobio = ''
-
-    var language = ''
     
 if (hrs < 12) wish = '*ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ⛅*'
 if (hrs >= 12 && hrs <= 17) wish = '*ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ 🌞*'
 if (hrs >= 17 && hrs <= 19) wish = '*ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 🌥*'
 if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
-if (config.AUTOBİO == 'true') autobio = 'On'
-if (config.AUTOBİO == 'false') autobio = 'Off'
-if (config.ANTİLİNK == 'true') antilink = 'On'
-if (config.ANTİLİNK == 'false') antilink = 'Off'
-
 
      await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭──────────────────╮
-   ` + config.BOT + `
+      𝐓𝐇𝐔𝐍𝐃𝐄𝐑 𝐌𝐖𝐎𝐋
 ╭──────────────────╯
 │
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
@@ -50,8 +40,8 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 │ ▢ *ᴏᴡɴᴇʀ* : ᴘᴇᴘᴇ sɪʀ
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 3.1
 │ ▢ *ʀᴏʟᴇ* : ᴏғғɪᴄɪᴀʟ
-│ ▢ *ᴀɴᴛɪʟɪɴᴋ* : ` + antilink + `
-│ ▢ *ᴀᴜᴛᴏ ʙɪᴏ* : ` + autobio + `
+│ ▢ *ᴀɴᴛɪʟɪɴᴋ* : ᴏɴ
+│ ▢ *ᴀᴜᴛᴏ ʙɪᴏ* :  ᴏғғ
 │ ▢ *ᴍᴏᴅᴇ* : ᴘᴜʙʟɪᴄ
 │ ▢ *ᴘʀᴇғɪx* : *# / . ; !*
 │
